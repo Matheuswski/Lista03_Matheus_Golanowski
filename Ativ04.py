@@ -3,12 +3,14 @@ cor = input("Digite sua cor favorita :")
 
 if cor == "vermelho":
     print("Eu tambem gosto de vermelho")
-
+    print("Matheus")
 elif cor == "VERMELHO":
     print("Eu tambem gosto de vermelho")
-
+    print("Matheus")
 elif cor == "Vermelho":
     print("Eu tambem gosto de vermelho")
+    print("Matheus")
 
 else:
     print("Eu não gosto de {}, eu prifiro vermelho".format(cor))
+    print("Matheus")
