@@ -3,7 +3,7 @@ numero = int(input("Digite numero inferior a 20 "))
 
 if numero > 20:
     print("muito alto")
-    print("Matheus")
+    print("Matheus Golanowski")
 else:
     print("obrigado")
-    print("Matheus")    
+    print("Matheus Golanowski")    

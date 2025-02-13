@@ -3,4 +3,13 @@ chuva = (input("esta chovendo?").lower)
 
 if chuva == "SIM".lower():
     vento = input("Esta ventando?").lower()
-    if vento
+    
+    if vento == "SIM":
+        print("Esta vetando muito para um guarda-chuva")
+        print("Matheus Golanowski")
+    if vento == "NÃO":
+        print("Pegue um guarda-chuva")
+        print("Matheus Golanowski")
+    else:
+        print("Aproveite o seu dia")
+        print("Matheus Golanowski")

@@ -5,10 +5,9 @@ numero2 = int(input("Digite o segundo numero: "))
 if numero > numero2 :
     print(numero)
     print(numero2)
-    print("Matheus")
-elif numero2 > numero:
+    print("Matheus Golanowski")
     print(numero2)
     print(numero)
-    print("Matheus")
+    print("Matheus Golanowski")
 else:
     print("erro")
